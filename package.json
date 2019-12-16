@@ -1,0 +1,26 @@
+{
+  "name": "semantest",
+  "version": "0.0.0-development",
+  "description": "testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msharma108/semantest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msharma108/semantest/issues"
+  },
+  "homepage": "https://github.com/msharma108/semantest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.31"
+  }
+}
